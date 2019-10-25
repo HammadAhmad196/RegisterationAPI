@@ -1,2 +1,0 @@
-# RegisterationAPI
-Created with CodeSandbox
